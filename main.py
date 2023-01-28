@@ -64,8 +64,8 @@ class toolfun(MyFrame):
     def translate(self, event):
         # Set your own appid/appkey.
         alp = 'abcdefghijklmnopqrstuvwsyz'
-        appid = '20221011001385841'
-        appkey = '_bQWbmyfJ8fgVWIWjPGu'
+        appid = '2022........841'
+        appkey = '_bQWbm........PGu'
 
         # For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
         from_lang = 'auto'
